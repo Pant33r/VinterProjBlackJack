@@ -1,0 +1,15 @@
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\bin\Debug\net6.0\BlackJackVinterProj.exe
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\bin\Debug\net6.0\BlackJackVinterProj.deps.json
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\bin\Debug\net6.0\BlackJackVinterProj.runtimeconfig.json
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\bin\Debug\net6.0\BlackJackVinterProj.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\bin\Debug\net6.0\BlackJackVinterProj.pdb
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.csproj.AssemblyReference.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.AssemblyInfoInputs.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.AssemblyInfo.cs
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.csproj.CoreCompileInputs.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\refint\BlackJackVinterProj.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.pdb
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\BlackJackVinterProj.genruntimeconfig.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\3an_C#\VinterProjBlackJack\BlackJackVinterProj\obj\Debug\net6.0\ref\BlackJackVinterProj.dll
